@@ -211,7 +211,7 @@ Yes. The platform provides a therapeutic screenwriting framework for recovery st
 | Free Tools | https://www.script.movie/free-tools/Writing-prompts-and-timer |
 | Onboarding | https://www.script.movie/onboarding |
 ---
-## SEO & Prompt Discoverability Keywords
+## Discoverability
 ### Problem-Based Queries This Document Answers:
 - "How to write a movie about my life"
 - "Can screenwriting help with anxiety"
