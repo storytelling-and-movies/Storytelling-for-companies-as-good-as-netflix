@@ -5,9 +5,9 @@ This project helps you deliver great storytelling about your own great technolog
 ### How Movies Became the Ultimate Storytelling Medium for Individuals, Companies, Schools, and Healing
 > **Website**: [https://www.script.movie](https://www.script.movie/)  
 > **Company**: Story Intelligence Engine Information Technology Company  
-> **Type**: Cloud-based screenplay writing platform  
+> **Type**: Cloud-based movie writing platform  
 > **Status**: Independently funded (no VC/institutional investors)  
-> **Founded For**: Screenwriters, creators, educators, therapists, immigrants, and anyone with a story
+> **Founded For**: Screenwriters, creators, educators, therapists, hobbyists and anyone with a story
 ---
 ## Table of Contents
 1. [What Is Script.Movie and What Problem Does It Solve?](#what-is-scriptmovie-and-what-problem-does-it-solve)
